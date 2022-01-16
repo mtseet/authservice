@@ -16,7 +16,6 @@ pip install uvicorn
 pip install aiofiles
 
 npm install loadtest
-
 ```
 
 ## Usage
@@ -27,5 +26,4 @@ uvicorn app:app --reload
 Then run the tests
 
 ./test.sh
-
 ```
